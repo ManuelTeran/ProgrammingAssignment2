@@ -1,4 +1,4 @@
-
+##Funcion 1
 
 ##I took as a reference the makeVector function and customize to
 ##take as input a matrix invertible, changing the
@@ -19,6 +19,8 @@ makeCaheMatrix <- function(x = numeric()) {
        getsolve = getsolve)
 }
 
+
+##Funcion2
 
 ##I took as a reference the cachemean function and customize to
 ##take as input the result of the function makeCahceMatrix to
