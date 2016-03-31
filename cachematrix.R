@@ -1,3 +1,6 @@
+
+## Final Assigment
+
 ##Funcion 1
 
 ##I took as a reference the makeVector function and customize to
